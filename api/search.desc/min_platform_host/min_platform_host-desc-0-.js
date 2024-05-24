@@ -1,0 +1,1 @@
+searchState.loadedDescShard("min_platform_host", 0, "")

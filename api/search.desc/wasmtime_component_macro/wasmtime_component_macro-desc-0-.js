@@ -1,0 +1,1 @@
+searchState.loadedDescShard("wasmtime_component_macro", 0, "")

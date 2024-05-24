@@ -1,0 +1,1 @@
+searchState.loadedDescShard("islec", 0, "Returns the argument unchanged.\nThe input ISLE DSL source files.\nCalls <code>U::from(self)</code>.\nThe output file to write the generated Rust code to. <code>stdout</code>…")

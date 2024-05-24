@@ -1,0 +1,1 @@
+searchState.loadedDescShard("clif_json", 0, "Utility for <code>cranelift_serde</code>.\nCranelift JSON serializer/deserializer utility\nDeserializes Cranelift IR into JSON\nSerializes Cranelift IR into JSON\nReturns the argument unchanged.\nCalls <code>U::from(self)</code>.\nInput file for serialization\nInput file for deserialization\nGenerate pretty json")

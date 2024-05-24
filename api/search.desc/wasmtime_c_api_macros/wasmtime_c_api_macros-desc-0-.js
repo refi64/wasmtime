@@ -1,0 +1,1 @@
+searchState.loadedDescShard("wasmtime_c_api_macros", 0, "A set of convenience macros for our wasmtime-c-api crate.")

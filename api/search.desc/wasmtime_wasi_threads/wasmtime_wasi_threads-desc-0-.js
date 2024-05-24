@@ -1,0 +1,1 @@
+searchState.loadedDescShard("wasmtime_wasi_threads", 0, "Implement <code>wasi-threads</code>.\nManually add the WASI <code>thread_spawn</code> function to the linker.\nReturns the argument unchanged.\nCalls <code>U::from(self)</code>.")

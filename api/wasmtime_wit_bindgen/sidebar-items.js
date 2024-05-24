@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["AsyncConfig","Ownership","TrappableImports"],"struct":["Opts","TrappableError"]};

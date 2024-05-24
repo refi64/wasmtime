@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["wasi","wit_bindgen_rt_shim"]};

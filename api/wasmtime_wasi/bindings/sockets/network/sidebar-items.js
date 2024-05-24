@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ErrorCode","IpAddress","IpAddressFamily","IpSocketAddress"],"fn":["add_to_linker","add_to_linker_get_host"],"struct":["Ipv4SocketAddress","Ipv6SocketAddress","Network"],"trait":["GetHost","Host","HostNetwork"],"type":["Ipv4Address","Ipv6Address"]};

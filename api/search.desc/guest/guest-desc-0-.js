@@ -1,0 +1,1 @@
+searchState.loadedDescShard("guest", 0, "Exported function for computing: (°C × 9/5) + 32 = °F\nExample function that does a simple a × b operation")

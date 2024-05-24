@@ -1,0 +1,1 @@
+searchState.loadedDescShard("byte_array_literals", 0, "Expand a <code>str</code> literal into a byte array.\nThe same as <code>str</code> but appends a <code>&#39;\\n&#39;</code>.")

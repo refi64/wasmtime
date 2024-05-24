@@ -1,0 +1,1 @@
+searchState.loadedDescShard("component_test_util", 0, "Newtype wrapper for <code>f32</code> whose <code>PartialEq</code> impl considers …\nNewtype wrapper for <code>f64</code> whose <code>PartialEq</code> impl considers …\nReturns the argument unchanged.\nReturns the argument unchanged.\nCalls <code>U::from(self)</code>.\nCalls <code>U::from(self)</code>.")

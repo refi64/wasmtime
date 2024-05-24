@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["IsleTarget"],"fn":["gen_common_isle","gen_isle_enum","gen_lower_isle","gen_opt_isle","generate"]};
